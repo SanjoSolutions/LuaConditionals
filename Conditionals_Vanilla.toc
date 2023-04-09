@@ -1,4 +1,5 @@
 ## Title: Conditionals
 ## Interface: 11403
+## Version: 1.0.0
 
 Conditionals.lua
