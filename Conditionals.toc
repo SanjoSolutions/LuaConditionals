@@ -1,4 +1,4 @@
 ## Title: Conditionals
-## Interface: 100100
+## Interface: 100007
 
 Conditionals.lua
