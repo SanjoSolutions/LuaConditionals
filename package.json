@@ -1,5 +1,9 @@
 {
   "name": "@sanjo-addons/conditionals",
+  "version": "2.0.0",
   "dependencies": {
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
